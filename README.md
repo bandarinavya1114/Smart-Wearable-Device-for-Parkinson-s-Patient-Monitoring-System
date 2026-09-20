@@ -1,4 +1,4 @@
-# Smart-Wearable-Device-for-Parkinson-s-Patient-Monitoring-System
+
 # Smart Wearable Device for Parkinson's Patient Monitoring System
 
 A low-cost, wearable IoT system that continuously monitors hand tremor and gait
